@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.changeable{
+  margin-top: 7rem;
+}
+<<<<<<< HEAD
+input:invalid {
+    border-color: red;
+}
+
+input:valid {
+    border-color: green;
+}
+
+.invalid-feedback {
+    color: red;
+    display: none;
+}
+
+input:invalid +.invalid-feedback {
+    display: block;
+}
+=======
+
+>>>>>>> feature
